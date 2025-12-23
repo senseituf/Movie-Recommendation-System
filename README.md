@@ -20,3 +20,6 @@ API: The Movie Database (TMDB) API
 Frontend: Streamlit
 
 ## 📸 Snapshots
+
+<img width="1904" height="917" alt="Screenshot 2024-12-01 233023" src="https://github.com/user-attachments/assets/16662e02-eb57-4efb-9829-f586810356fb" />
+<img width="1893" height="900" alt="Screenshot 2024-12-01 233218" src="https://github.com/user-attachments/assets/183a09c2-e639-4fc5-9d2f-3a7ba54bec28" />
